@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+  border: 1px solid #ffffff;
+  margin: 100px auto;
+  width: 50%;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.titulo{
+  color: #26A69A;
+}
+
+.formulario{
+  width: 100%;
+}
+
+.div{
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.label{
+  font-size: 16px;
+  align-self: start;
+  margin-left: 135px;
+  margin-bottom: 5px;
+  color: #26A69A;
+}
+
+.input{
+  font-size: x-large;
+  border-radius: 5px;
+  margin-left: 33px;
+  align-self: center;
+  width: 75%;
+}
+
+.btn{
+  font-size: 16px;
+  background-color: #26A69A;
+  border: none;
+  color: #ffffff;
+  width: 70%;
+  height: 30px;
+  border-radius: 5px;
+  margin: 30px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
