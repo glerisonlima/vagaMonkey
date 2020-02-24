@@ -33,7 +33,7 @@ projeto em Reactjs criado para fazer a interação com o usuario onde o cliente 
 
 *Link gerado*
 
-![link]("./imagens/link.png)
+![Captura de tela_2020-02-23_19-56-30](https://user-images.githubusercontent.com/13289584/75123567-567fa100-5687-11ea-99ab-2a1645a9184c.png)
 
 *Link expirado*
 
