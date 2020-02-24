@@ -45,6 +45,6 @@ projeto em Reactjs criado para fazer a interação com o usuario onde o cliente 
 
 *Cadastro realizado com sucesso!*
 
-![sucesso]("./imagens/finalizado.png")
+![Captura de tela_2020-02-23_20-14-27](https://user-images.githubusercontent.com/13289584/75123615-cc840800-5687-11ea-8364-a356391fa2bf.png)
 
 **Agadeço desde já a oportunidade pois foi um projeto onde fiz varias pesquisas e quebrei a cabeça para fazer de uma forma mais simples possivel e eficiente ao que foi pedido, Obrigado !**
