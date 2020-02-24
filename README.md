@@ -37,7 +37,7 @@ projeto em Reactjs criado para fazer a interação com o usuario onde o cliente 
 
 *Link expirado*
 
-![expirado]("./imagens/expirado.png")
+![Captura de tela_2020-02-23_19-55-19](https://user-images.githubusercontent.com/13289584/75123589-89c23000-5687-11ea-96a3-4814bb1451f9.png)
 
 *Dados do usuário para validar o cadastro*
 
