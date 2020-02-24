@@ -41,7 +41,7 @@ projeto em Reactjs criado para fazer a interação com o usuario onde o cliente 
 
 *Dados do usuário para validar o cadastro*
 
-![validar]("./imagens/validando.png")
+![Captura de tela_2020-02-23_20-13-32](https://user-images.githubusercontent.com/13289584/75123606-b37b5700-5687-11ea-8ff6-46df9882bcda.png)
 
 *Cadastro realizado com sucesso!*
 
